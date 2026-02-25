@@ -1,7 +1,7 @@
-PDF Accelerated Extraction Engine (PAEE)
+PDF Advanced Extraction Engine (PAEE)
 ========================================
 
-The **PDF Accelerated Extraction Engine (PAEE)** is a rule-based document processing system designed to automatically extract and structure information from regulatory and policy documents. 
+The **PDF Advanced Extraction Engine (PAEE)** is a rule-based document processing system designed to automatically extract and structure information from regulatory and policy documents. 
 
 Currently, it is being tested on Interstate Oil & Gas Compact Commission (IOGCC) policy documents.
 
